@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @nataliarauj
-- 👀 I’m interested in ...
-  Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  @nataliac.arauj
+- 👋 Olá! Meu nome é Natália Araújo
+- 🌱 Atualmente estou estudando Python, Banco de Dados e Javascript
 
-<!---
-nataliarauj/nataliarauj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
