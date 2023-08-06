@@ -1,7 +1,7 @@
 <h2> Olá, me chamo Natália Araújo </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliarauj)](https://github.com/nataliarauj/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=omni_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliarauj&theme=omni icons=true)](https://github.com/nataliarauj/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
 
