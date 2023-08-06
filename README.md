@@ -1,6 +1,7 @@
 <h2> Olá, me chamo Natália Araújo </h2>
+<img height='150em' scr='![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliarauj&theme=dracula&show_icons=true)'> </img>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliarauj&theme=dracula&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarauj&theme=dracula&langs_count=8)
+<img height='150em' scr='![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarauj&theme=dracula&langs_count=8)'> </img>
 
 <div style="display: inline_block"><br>
 
