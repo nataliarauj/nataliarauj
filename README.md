@@ -1,8 +1,8 @@
 <h2> Olá, me chamo Natália Araújo </h2>
 
 <div>
-<img height="150em" scr="https://github-readme-stats.vercel.app/api?username=nataliarauj&theme=dracula&show_icons=true"/>
-<img height="150em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarauj&theme=dracula&langs_count=8"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nataliarauj&theme=dracula&show_icons=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarauj&theme=dracula&langs_count=8"/>
 </div>
 
 
@@ -14,6 +14,9 @@
 </div>
 
 <h2> Contato </h2>
+<div>
 <a href="https://www.linkedin.com/in/nataliarauj/">
-<img  align="center" heigth="50" width="60" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60" > </img>
+</div>  
+
 </a>
