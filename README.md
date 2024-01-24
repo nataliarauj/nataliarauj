@@ -16,11 +16,3 @@
 <img align="center" alt="GitHub" heigth="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="center" alt="JS" heigth="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
-
-
-<h2> Contato </h2>
-<div>
-<a href="https://www.linkedin.com/in/nataliarauj/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="40" > </img>
-</div>  
-</a>
