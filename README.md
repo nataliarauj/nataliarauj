@@ -26,15 +26,6 @@ Estou sempre estudando novas tecnologias e buscando formas de contribuir com meu
 
 [![MySql](https://img.shields.io/badge/MySQl-white?style=for-the-badge&logo=mysql&logoColor=orange)](https://www.php.net/docs.php)
 
-
-## 📧 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/nataliarauj/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nataliarauj)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fca.nataliaraujo@gmail.com)
-
-
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarauj&theme=dracula&layout=compact)
